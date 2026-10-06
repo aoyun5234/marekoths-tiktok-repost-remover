@@ -100,7 +100,7 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:gravity="center"
-        android:text="marekoth • Free & Unlimited • AdMob buraya gelecek"
+        android:text="marekoth • Free &amp; Unlimited • AdMob buraya gelecek"
         android:textColor="#444444"
         android:textSize="11sp"
         android:background="#0f0f0f" />
